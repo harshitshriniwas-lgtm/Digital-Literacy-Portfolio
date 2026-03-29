@@ -24,11 +24,11 @@ digital-literacy-project/
 │   └── Project_Report.pdf
 │
 ├── task-1-presentation/
-│   └── “Digital Literacy A Must-Have Skill for Students”.png
+│   └── infographic.png
 │
 ├── task-2-portfolio/
 │   ├── GitHub.png
-│   ├── LinkedIn.png
+│   ├── LinkedIn.jpg
 │   └── Kaggle.png
 │
 ├── task-3-platforms/
@@ -37,8 +37,8 @@ digital-literacy-project/
 │   └── Hackerranker.png
 │
 ├── task-4-email-etiquette/
-│   ├── Email1.png
-│   ├── Email2.png
+│   ├── email1.pdf
+│   ├── email2.pdf
 │   └── social-media-checklist.md
 │
 ├── task-5-cybercrime/
